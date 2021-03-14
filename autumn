@@ -1,3 +1,7 @@
+POR MAIS INFORMAÇÕES LER O 'READ ME': 'https://raw.githubusercontent.com/nevvrin/fourseasons/main/README.md'
+FOR MORE INFO SEE 'READ ME': 'https://raw.githubusercontent.com/nevvrin/fourseasons/main/README.md'  
+
+/*CODE*/
 <link href="//dl.dropbox.com/s/l80t2el09k74v0b/autunno.css?dl=0" rel="stylesheet">
 <style>:root {--bg1: #COR DO BACKGROUND; --bg2: #COR DO TITULO; --bg3: #COR SECUNDARIA; --hl: #COR DO DESTAQUE; --border: #COR DA BORDA; --img: url(IMAGEM/ICON REDIMENSIONA E CENTRALIZA); --font: #COR DA FONTE;}</style>
 <center><div id="grrl"><div class="gtop"><div class="gttl">TITULO CURTO</div></div><div class="grght"><nvr><div class="gimg"></div></nvr><div class="ginfo"><b>INFOS EXTRAS</b> TEM <hl>DESTAQUE</hl> E <I>ITÁLICO</I></div></div></div><div id="grrlg"><div class="gtxt">SEU TEXTO AQUI <b>NEGRITO</b> <hl>DESTAQUE</hl> <i>ITALICO</i></div></div></center>
