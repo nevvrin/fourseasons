@@ -1,0 +1,3 @@
+<link href="//dl.dropbox.com/s/eb47et9ze58527w/estate.css?dl=0" rel="stylesheet">
+<style>:root {--bg1: #COR DO BACKGROUND; --bg2: #COR DO TITULO; --bg3: #COR SECUNDARIA; --hl: #COR DO DESTAQUE; --border: #COR DA BORDA; --img: url(IMAGEM/ICON REDIMENSIONA E CENTRALIZA); --font: #COR DA FONTE;}</style>
+<center><div id="cty"><div class="ctop"><div class="cttl">TITULO CURTO</div></div><div class="crght"><nvr><div class="cimg"></div></nvr><div class="cinfo"><b>INFOS EXTRAS</b> TEM <hl>DESTAQUE</hl> E <I>ITÁLICO</I></div></div></div><div id="ctyg"><div class="ctxt">SEU TEXTO AQUI <b>NEGRITO</b> <hl>DESTAQUE</hl> <i>ITALICO</i></div></div></center>
